@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/kduyguozdemir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kduyguozdemir" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kduygu_ozdemir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kduygu_ozdemir" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kduyguozemir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@kduyguozemir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
